@@ -1,0 +1,37 @@
+img{ 
+    image "https://i.imgur.com/wIjC8nP.png"
+    width: 40%;
+    height: 40%;
+}
+
+img{ 
+    image "https://i.imgur.com/hfCDRm4.jpg"
+    width: 40%;
+    height: 40%;
+}
+img{
+    image " https://i.imgur.com/0A8FJb1.png"
+    width: 40%;
+    height: 40%; 
+}
+
+
+img{
+   image "https://i.imgur.com/8ze7Mdp.jpg"
+   
+}
+
+body{
+    background: rgb(226, 226, 78);
+    font-family: 'Rowdies', cursive;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+strong {
+    color:red
+}
+
